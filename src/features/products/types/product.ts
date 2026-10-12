@@ -6,3 +6,5 @@ export type Product = {
 };
 
 export type ProductId = Product["id"]
+
+// this is product card types
